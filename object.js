@@ -55,6 +55,6 @@ console.log(product)
 product.inventory[0].units = 7
 console.log(product)
 
-product = { //return error
+product = { //return error.
     pid: 201
 }
